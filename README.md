@@ -5,4 +5,4 @@ Nesse repositório colocarei alguns exercícios de programação guidada para qu
 
 ## Exercício 1
 
-- O exercício 1 consiste em criar uma calculadora que pega inputs e retorna o resultado.
+- O exercício 1 consiste em criar uma calculadora que pega inputs e retorna o resultado. [link para o exercicio](https://colab.research.google.com/github/nahumsa/PROVOC-Python/blob/master/Exercicios1.ipynb)
