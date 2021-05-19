@@ -10,3 +10,7 @@ Nesse repositório colocarei alguns exercícios de programação guidada para qu
 ## Exercício 2
 
 - O exercício 2 consiste em criar um jogo da velha no jupyter notebook. [link para o exercicio](https://colab.research.google.com/github/nahumsa/PROVOC-Python/blob/master/Exercicio2.ipynb)
+
+## Exercício 3
+
+- O exercício 3 consiste em consolidar o conhecimento sobre a programação dinâmica. [link para o exercício](https://colab.research.google.com/github/nahumsa/PROVOC-Python/blob/dynamic-programming/Dynamic%20Programming-Exercises.ipynb)
