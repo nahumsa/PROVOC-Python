@@ -14,3 +14,8 @@ Nesse repositório colocarei alguns exercícios de programação guidada para qu
 ## Exercício 3
 
 - O exercício 3 consiste em consolidar o conhecimento sobre a programação dinâmica. [link para o exercício](https://colab.research.google.com/github/nahumsa/PROVOC-Python/blob/dynamic-programming/Dynamic%20Programming-Exercises.ipynb)
+
+
+# Adicionar respostas
+
+Recomendo os alunos a adicionar as soluções através de um pull request, para isso segue a referência sobre como fazê-lo [Como criar um Pull Request](https://docs.github.com/pt/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
